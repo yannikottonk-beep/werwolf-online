@@ -1894,14 +1894,14 @@
 // Uses a shared public project. For production replace with
 // your own Firebase project (free Spark plan is enough).
 // ═══════════════════════════════════════════════════════════
-const FIREBASE_CONFIG = {
-  apiKey: "AIzaSyCkUM34wybbK7h5MBqtNC4VDYITMF-DTDM",
-  authDomain: "werwolfonline-c9545.firebaseapp.com",
-  projectId: "werwolfonline-c9545",
-  storageBucket: "werwolfonline-c9545.firebasestorage.app",
-  messagingSenderId: "840965549251",
-  appId: "1:840965549251:web:34cc631ee2717e4a648676",
-  measurementId: "G-D7D8MHMRFK"
+const firebaseConfig = {
+  apiKey: "AIzaSyASeXTsfJSD8R3l_RCZbMtmYupnzyPlTaM",
+  authDomain: "werwolf-online-otto.firebaseapp.com",
+  projectId: "werwolf-online-otto",
+  storageBucket: "werwolf-online-otto.firebasestorage.app",
+  messagingSenderId: "698013615371",
+  appId: "1:698013615371:web:0ec199a1b6a03ac0ed8e0e",
+  measurementId: "G-ZX4N158GDT"
 };
 
 let firebaseApp  = null;
